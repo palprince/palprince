@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palprince
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Git
 - 📫 You can reach me contactprincepal@gmail.com
 
 <!---
